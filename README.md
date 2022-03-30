@@ -55,7 +55,7 @@ Interested in the entire frontend spectrum and working on ambitious projects wit
 <span class="pl-en">🗺️ Location</span>: <span class="pl-smi">Palestine</span>, <span class="pl-smi">Gaza</span>
 <span class="pl-en">🔥 Frameworks</span>: <span class="pl-smi">React</span>
 <span class="pl-en">🧑‍💻 Languages & Skils</span>: <span class="pl-smi">JavaScript</span>,<span class="pl-smi">TypeScript</span>,
-                    <span class="pl-smi">HTML</span>,<span class="pl-smi">CSS</span>,<span class="pl-smi">Sass</span>,<span class="pl-smi">Php</span>,<span class="pl-smi">Sass</span>,
+                    <span class="pl-smi">HTML</span>,<span class="pl-smi">CSS</span>,<span class="pl-smi">Php</span>,<span class="pl-smi">Sass</span>,
                     <span class="pl-smi">NextJs</span>,<span class="pl-smi">BootStrap</span>,<span class="pl-smi">ReactRouter</span>,
                     <span class="pl-smi">FramerMotion</span>,<span class="pl-smi">TailwindCss</span>,<span class="pl-smi">Just</span>
                     <span class="pl-smi">MySql</span>,<span class="pl-smi">Java</span>,<span class="pl-smi">C++/C</span>,<span class="pl-smi">ChartJs</span>,<span class="pl-smi">Git</span>,<span class="pl-smi">ExpressJs</span>
