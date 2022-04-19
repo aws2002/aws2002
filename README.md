@@ -102,7 +102,7 @@ Discord: pgsohail" tabindex="0" role="button" style="display: inherit;">
 <details>
   <summary><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡️</g-emoji><strong>CLICK HERE</strong></summary>
   <br>
-  <p align="left"> <a href="https://twitter.com/aws__h" target="blank"><img src="https://img.shields.io/twitter/follow/aws__h?logo=twitter&style=for-the-badge" alt="aws__h" /></a> </p>
+  <p align="left"> <a href="https://twitter.com/Itsosama_2" target="blank"><img src="https://img.shields.io/twitter/follow/Itsosama_2?logo=twitter&style=for-the-badge" alt="Itsosama_2" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aws2002&label=Profile%20views&color=0e75b6&style=flat" alt="aws2002" /> </p>
 <p align="center">
 <img align="center"
@@ -115,7 +115,7 @@ Discord: pgsohail" tabindex="0" role="button" style="display: inherit;">
 </details>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aws__h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aws__h" height="30" width="40" /></a>
+<a href="https://twitter.com/Itsosama_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Itsosama_2" height="30" width="40" /></a>
 <a href="https://fb.com/osama.husam.1671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="osama.husam.1671" height="30" width="40" /></a>
 <a href="https://instagram.com/osama._husam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osama._husam" height="30" width="40" /></a>
 </p>
