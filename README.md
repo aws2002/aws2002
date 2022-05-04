@@ -61,7 +61,8 @@ Interested in the entire frontend spectrum and working on ambitious projects wit
                     <span class="pl-smi">NextJs</span>,<span class="pl-smi">BootStrap</span>,<span class="pl-smi">ReactRouter</span>,
                     <span class="pl-smi">FramerMotion</span>,<span class="pl-smi">TailwindCss</span>,<span class="pl-smi">Just</span>
                     <span class="pl-smi">MySql</span>,<span class="pl-smi">Java</span>,<span class="pl-smi">C++/C</span>,<span class="pl-smi">ChartJs</span>,<span class="pl-smi">Git</span>,<span class="pl-smi">ExpressJs</span>,<span class="pl-smi">RegEx</span>
-                    <span class="pl-smi">MongoDb</span>,<span class="pl-smi">NodeJs</span>,<span class="pl-smi">Skeleton</span>
+                    <span class="pl-smi">MongoDb</span>,<span class="pl-smi">NodeJs</span>,<span class="pl-smi">Skeleton</span>,
+                    <span class="pl-smi">i18next</span>
 <span class="pl-en">🥅 2022 Goals: </span>: <span class="pl-smi">**Learn more about web**</span>
 <span class="pl-en">⚡ Hobbies</span>: <span class="pl-smi">football</span>, <span class="pl-smi">Gaming</span>
 <span class="pl-en">📧 Email</span>: <span class="pl-smi">otaku3game@gmail.com</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
