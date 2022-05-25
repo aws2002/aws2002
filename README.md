@@ -146,8 +146,8 @@ Discord: pgsohail" tabindex="0" role="button" style="display: inherit;">
 </details>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Itsosama_2" target="blank"><img src="https://img.shields.io/badge/twitter-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://instagram.com/osama._husam" target="blank"> <img src="https://img.shields.io/badge/Instagram-f24b5b?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://twitter.com/Itsosama_2" target="blank"><img src="https://img.shields.io/badge/twitter-1877F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://instagram.com/osama._husam" target="blank"> <img src="https://img.shields.io/badge/Instagram-f24b5b?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 <a href="https://fb.com/osama.husam.1671" target="blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
