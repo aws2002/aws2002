@@ -90,13 +90,39 @@ Discord: pgsohail" tabindex="0" role="button" style="display: inherit;">
     </clipboard-copy>
   </div></div>
  <p align="center" dir="auto">
-   <a target="_blank" rel="noopener noreferrer" href="https://styled-components.com/"><img src="https://gozattila.dev/static/media/styled_components.a46dc006.png" style="height: 70px; width: 70px;"></a>
-    <a target="_blank" rel="noopener noreferrer" href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="height: 70px; width: 70px;"></a>
-    <a target="_blank" rel="noopener noreferrer" href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="height: 70px; width: 70px;"></a>
-    <a target="_blank" rel="noopener noreferrer" href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="height: 70px; width: 70px;"></a>
-    <a target="_blank" rel="noopener noreferrer" href="https://jestjs.io"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" style="height: 70px; width: 70px;"></a><a target="_blank" rel="noopener noreferrer" href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="height: 70px; width: 70px;"></a><a target="_blank" rel="noopener noreferrer" href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="height: 70px; width: 70px;"></a><a target="_blank" rel="noopener noreferrer" href="https://www.chartjs.org"><img src="https://www.chartjs.org/media/logo-title.svg" style="height: 70px; width: 70px;"></a><a target="_blank" rel="noopener noreferrer" href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="height: 70px; width: 70px;"></a><a target="_blank" rel="noopener noreferrer" href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="height: 70px; width: 70px;"></a><a target="_blank" rel="noopener noreferrer" href="https://www.framer.com/"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" style="height: 70px; width: 70px;"></a><a target="_blank" rel="noopener noreferrer" href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="height: 70px; width: 70px;"></a><a target="_blank" rel="noopener noreferrer" href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="height: 70px; width: 70px;"></a><a target="_blank" rel="noopener noreferrer" href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="height: 70px; width: 70px;"></a><a target="_blank" rel="noopener noreferrer" href="https://sass-lang.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="height: 70px; width: 70px;"></a><a target="_blank" rel="noopener noreferrer" href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="height: 70px; width: 70px;"></a><a target="_blank" rel="noopener noreferrer" href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="height: 70px; width: 70px;"></a><a target="_blank" rel="noopener noreferrer" href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="height: 70px; width: 70px;"></a><a target="_blank" rel="noopener noreferrer" href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="height: 70px; width: 70px;"></a><a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="height: 70px; width: 70px;"></a><a target="_blank" rel="noopener noreferrer" href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="height: 70px; width: 70px;"></a>
-   
-
+    <img src="https://img.shields.io/badge/-TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/-next.js-ffffff?style=for-the-badge&logo=next.js&logoColor=black" />
+    <!-- <img src="https://img.shields.io/badge/-ReduxJs-61DAFB?style=for-the-badge&logo=redux&logoColor=white" /> -->
+    <img src="https://img.shields.io/badge/-React%20Router%20Dom-%236CDBFD?style=for-the-badge&logo=reactrouter&logoColor=black" />
+    <!-- <img src="https://img.shields.io/badge/-react_native-914359?style=for-the-badge&logo=react-native&logoColor=white" /> -->
+    <!-- <img src="https://img.shields.io/badge/-materialUI-61DAFB?style=for-the-badge&logo=materialui&logoColor=black" /> -->
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/mongodb-43853D?style=for-the-badge&logo=mongodb&logoColor=green" />
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Eslint-4831B3?style=for-the-badge&logo=eslint&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tailwind-4831B3?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+    <!-- <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> -->
+    <img src="https://img.shields.io/badge/-Jest-914359?style=for-the-badge&logo=jest&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Framer Motion-e700bb?style=for-the-badge&logo=framer&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-chart.js-914359?style=for-the-badge&logo=chart.js&logoColor=white" />
+    <!-- <img src="https://img.shields.io/badge/-postman-F26634?style=for-the-badge&logo=postman&logoColor=white" /> -->
+    <!-- <img src="https://img.shields.io/badge/-Heroku-%236B48AF?style=for-the-badge&logo=heroku&logoColor=white" /> -->
+    <img src="https://img.shields.io/badge/-Figma-%2379D384?style=for-the-badge&logo=figma&logoColor=white" />
+    <!-- <img src="https://img.shields.io/badge/-mapBox-61DAFB?style=for-the-badge&logo=map&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Twilio-E95420?style=for-the-badge&logo=Twilio&logoColor=white" /> -->
+    <img src="https://img.shields.io/badge/-chart.js-914359?style=for-the-badge&logo=chart.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/-i18next-029687?style=for-the-badge&logo=i18next&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Styled%20Components-404D59?style=for-the-badge&logo=styledComponents&logoColor=white" />
+    <img src="https://img.shields.io/badge/-bootstarp-43853D?style=for-the-badge&logo=bootstarp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0584C4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+    <img src="https://img.shields.io/badge/-react Bootstarp-E95420?style=for-the-badge&logo=react-bootstarp&logoColor=white" />
+</p>
 </details>
 
 
@@ -120,9 +146,9 @@ Discord: pgsohail" tabindex="0" role="button" style="display: inherit;">
 </details>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Itsosama_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Itsosama_2" height="30" width="40" /></a>
-<a href="https://fb.com/osama.husam.1671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="osama.husam.1671" height="30" width="40" /></a>
-<a href="https://instagram.com/osama._husam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osama._husam" height="30" width="40" /></a>
+<a href="https://twitter.com/Itsosama_2" target="blank"><img src="https://img.twitter.io/badge/Instagram-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://instagram.com/osama._husam" target="blank"> <img src="https://img.shields.io/badge/Instagram-f24b5b?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://fb.com/osama.husam.1671" target="blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 <div align="center"><br> 
