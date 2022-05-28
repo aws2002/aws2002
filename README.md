@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90"></img>
-<h2> Hi  <img width="30" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" />, I'm </h2>
+<h2> <img width="30" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" />, I'm </h2>
 
 <h3 align="center"> <a href="https://aws2002.github.io/">
    <img alt="" src="https://readme-typing-svg.herokuapp.com/?lines=Osama+Husem;Beginner+ReactJS+NextJs++Full-Stack+developer&font=Fira%20Code&center=true&width=680&height=45&color=68C3D4&vCenter=true&size=25"></a>
@@ -130,7 +130,7 @@ Discord: pgsohail" tabindex="0" role="button" style="display: inherit;">
     src="https://github-readme-streak-stats.herokuapp.com/?user=aws2002&theme=dark" alt="aws2002" style="width:50%"/>
 </p>
 </details>
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 <p align="center">
 <a href="https://twitter.com/Itsosama_2" target="blank"><img src="https://img.shields.io/badge/twitter-1877F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://instagram.com/osama._husam" target="blank"> <img src="https://img.shields.io/badge/Instagram-f24b5b?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
