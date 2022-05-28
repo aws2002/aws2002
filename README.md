@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90"></img>
 <h2> Hi  <img width="30" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" />, I'm </h2>
 
 <h3 align="center"> <a href="https://aws2002.github.io/">
@@ -138,6 +139,6 @@ Discord: pgsohail" tabindex="0" role="button" style="display: inherit;">
 
 <div align="center"><br> 
 
-  ![Snake animation](https://github.com/Feruaro/Feruaro/blob/output/github-contribution-grid-snake.svg)
-  
+<!--   ![Snake animation](https://github.com/Feruaro/Feruaro/blob/output/github-contribution-grid-snake.svg) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"></img>
   </div>
