@@ -121,6 +121,7 @@ Discord: pgsohail" tabindex="0" role="button" style="display: inherit;">
   <br>
   <p align="left"> <a href="https://twitter.com/Itsosama_2" target="blank"><img src="https://img.shields.io/twitter/follow/Itsosama_2?logo=twitter&style=for-the-badge" alt="Itsosama_2" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aws2002&label=Profile%20views&color=0e75b6&style=flat" alt="aws2002" /> </p>
+   <h3>Activity <img width="40" src="https://c.tenor.com/dWMRNxW7Ti4AAAAi/iota-tanglevision.gif" /></h3> 
 <p align="center">
 <img align="center"
     src="" alt=""/>
@@ -129,6 +130,8 @@ Discord: pgsohail" tabindex="0" role="button" style="display: inherit;">
     src="https://github-readme-stats.vercel.app/api?username=aws2002&show_icons=true&locale=en&theme=dark" alt="aws2002" style="width:50%"/><img align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=aws2002&theme=dark" alt="aws2002" style="width:50%"/>
 </p>
+   <h3>Contribution Graph <img width="40" src="https://c.tenor.com/8Bhx4_d52goAAAAi/mic-drop-busy-bee.gif" /></h3> 
+<img src="https://activity-graph.herokuapp.com/graph?username=aws2002&theme=dracula&color=B994E6&bg_color=151515" />
 </details>
 <h3 align="center">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 <p align="center">
