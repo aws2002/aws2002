@@ -135,7 +135,8 @@ Discord: pgsohail" tabindex="0" role="button" style="display: inherit;">
    <h3>Contribution Graph <img width="40" src="https://c.tenor.com/8Bhx4_d52goAAAAi/mic-drop-busy-bee.gif" /></h3> 
 <img src="https://activity-graph.herokuapp.com/graph?username=aws2002&theme=dracula&color=B994E6&bg_color=151515" />
 </details>
-<h3 align="center">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
+<!-- <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' style="width: 100px;"> -->
+<h3 align="center">Connect with me ✉️</h3>
 <p align="center">
 <a href="https://twitter.com/Itsosama_2" target="blank"><img src="https://img.shields.io/badge/twitter-1877F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://instagram.com/osama._husam" target="blank"> <img src="https://img.shields.io/badge/Instagram-f24b5b?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
