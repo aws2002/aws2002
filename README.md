@@ -132,6 +132,8 @@ Discord: pgsohail" tabindex="0" role="button" style="display: inherit;">
     <img align="center"
     src="https://github-readme-stats.vercel.app/api?username=aws2002&show_icons=true&locale=en&theme=dark" alt="aws2002" style="width:50%"/><img align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=aws2002&theme=dark" alt="aws2002" style="width:50%"/>
+   <img align="center"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aws2002&layout=compact&langs_count=8&theme=dark" alt="aws2002" style="width:50%"/>
 </p>
    <h3>Contribution Graph <img width="40" src="https://c.tenor.com/8Bhx4_d52goAAAAi/mic-drop-busy-bee.gif" /></h3> 
 <img src="https://activity-graph.herokuapp.com/graph?username=aws2002&theme=dracula&color=B994E6&bg_color=151515" />
