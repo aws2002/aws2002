@@ -50,7 +50,7 @@
                     <span class="pl-smi">FramerMotion</span>,<span class="pl-smi">TailwindCss</span>,<span class="pl-smi">Just</span>
                     <span class="pl-smi">MySql</span>,<span class="pl-smi">Java</span>,<span class="pl-smi">C++/C</span>,<span class="pl-smi">ChartJs</span>,<span class="pl-smi">Git</span>,<span class="pl-smi">ExpressJs</span>,<span class="pl-smi">RegEx</span>
                     <span class="pl-smi">MongoDb</span>,<span class="pl-smi">NodeJs</span>,<span class="pl-smi">Skeleton</span>,
-                    <span class="pl-smi">i18next</span>,<span class="pl-smi">Styled Components</span>
+                    <span class="pl-smi">i18next</span>,<span class="pl-smi">Styled Components</span>,<span class="pl-smi">React Native</span>
 <span class="pl-en">🥅 2022 Goals: </span>: <span class="pl-smi">**Learn more about web**</span>
 <span class="pl-en">⚡ Hobbies</span>: <span class="pl-smi">football</span>, <span class="pl-smi">Gaming</span>
 <span class="pl-en">📧 Email</span>: <span class="pl-smi">otaku3game@gmail.com</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
@@ -93,6 +93,7 @@ Discord: pgsohail" tabindex="0" role="button" style="display: inherit;">
     <img src="https://img.shields.io/badge/mongodb-43853D?style=for-the-badge&logo=mongodb&logoColor=green" />
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/-Eslint-4831B3?style=for-the-badge&logo=eslint&logoColor=white" />
+    <img src="https://img.shields.io/badge/-REACTNATIVE-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/-tailwind-4831B3?style=for-the-badge&logo=tailwindcss&logoColor=white" />
     <!-- <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> -->
     <img src="https://img.shields.io/badge/-Jest-914359?style=for-the-badge&logo=jest&logoColor=white" />
@@ -140,6 +141,9 @@ Discord: pgsohail" tabindex="0" role="button" style="display: inherit;">
 <p align="center">
 <a href="https://twitter.com/Itsosama_2" target="blank"><img src="https://img.shields.io/badge/twitter-1877F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://instagram.com/osama._husam" target="blank"> <img src="https://img.shields.io/badge/Instagram-f24b5b?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+   <a href="https://wa.me/972567008908">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    </a>
 <a href="https://fb.com/osama.husam.1671" target="blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
