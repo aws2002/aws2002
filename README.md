@@ -101,7 +101,7 @@ Discord: pgsohail" tabindex="0" role="button" style="display: inherit;">
     <img src="https://img.shields.io/badge/-Framer Motion-e700bb?style=for-the-badge&logo=framer&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/-postman-F26634?style=for-the-badge&logo=postman&logoColor=white" />
-    <!-- <img src="https://img.shields.io/badge/-Heroku-%236B48AF?style=for-the-badge&logo=heroku&logoColor=white" /> -->
+    <img src="https://img.shields.io/badge/-Heroku-%236B48AF?style=for-the-badge&logo=heroku&logoColor=white" /> 
     <img src="https://img.shields.io/badge/-Figma-%2379D384?style=for-the-badge&logo=figma&logoColor=white" />
     <!-- <img src="https://img.shields.io/badge/-mapBox-61DAFB?style=for-the-badge&logo=map&logoColor=white" />
     <img src="https://img.shields.io/badge/-Twilio-E95420?style=for-the-badge&logo=Twilio&logoColor=white" /> -->
