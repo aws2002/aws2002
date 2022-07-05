@@ -50,7 +50,8 @@
                     <span class="pl-smi">FramerMotion</span>,<span class="pl-smi">TailwindCss</span>,<span class="pl-smi">Just</span>
                     <span class="pl-smi">MySql</span>,<span class="pl-smi">Java</span>,<span class="pl-smi">C++/C</span>,<span class="pl-smi">ChartJs</span>,<span class="pl-smi">Git</span>,<span class="pl-smi">ExpressJs</span>,<span class="pl-smi">RegEx</span>
                     <span class="pl-smi">MongoDb</span>,<span class="pl-smi">NodeJs</span>,<span class="pl-smi">Skeleton</span>,
-                    <span class="pl-smi">i18next</span>,<span class="pl-smi">Styled Components</span>,<span class="pl-smi">React Native</span>
+                    <span class="pl-smi">i18next</span>,<span class="pl-smi">Styled Components</span>,<span class="pl-smi">React Native</span>,
+                    <span class="pl-smi">Java</span>,<span class="pl-smi">React C++/C</span>,<span class="pl-smi">Python</span>
 <span class="pl-en">🥅 2022 Goals: </span>: <span class="pl-smi">**Learn more about web**</span>
 <span class="pl-en">⚡ Hobbies</span>: <span class="pl-smi">football</span>, <span class="pl-smi">Gaming</span>
 <span class="pl-en">📧 Email</span>: <span class="pl-smi">otaku3game@gmail.com</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
@@ -99,8 +100,7 @@ Discord: pgsohail" tabindex="0" role="button" style="display: inherit;">
     <img src="https://img.shields.io/badge/-Jest-914359?style=for-the-badge&logo=jest&logoColor=white" />
     <img src="https://img.shields.io/badge/-Framer Motion-e700bb?style=for-the-badge&logo=framer&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/-chart.js-914359?style=for-the-badge&logo=chart.js&logoColor=white" />
-    <!-- <img src="https://img.shields.io/badge/-postman-F26634?style=for-the-badge&logo=postman&logoColor=white" /> -->
+    <img src="https://img.shields.io/badge/-postman-F26634?style=for-the-badge&logo=postman&logoColor=white" />
     <!-- <img src="https://img.shields.io/badge/-Heroku-%236B48AF?style=for-the-badge&logo=heroku&logoColor=white" /> -->
     <img src="https://img.shields.io/badge/-Figma-%2379D384?style=for-the-badge&logo=figma&logoColor=white" />
     <!-- <img src="https://img.shields.io/badge/-mapBox-61DAFB?style=for-the-badge&logo=map&logoColor=white" />
@@ -111,6 +111,9 @@ Discord: pgsohail" tabindex="0" role="button" style="display: inherit;">
     <img src="https://img.shields.io/badge/-bootstarp-43853D?style=for-the-badge&logo=bootstarp&logoColor=white" />
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0584C4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
     <img src="https://img.shields.io/badge/-react Bootstarp-E95420?style=for-the-badge&logo=react-bootstarp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-376c99?style=for-the-badge&logo=Python&logoColor=f7ca3e" />
+    <img src="https://img.shields.io/badge/-C++-4831B3?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/-java-914359?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 </details>
 
