@@ -85,7 +85,7 @@ Discord: pgsohail" tabindex="0" role="button" style="display: inherit;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/-next.js-ffffff?style=for-the-badge&logo=next.js&logoColor=black" />
-    <!-- <img src="https://img.shields.io/badge/-ReduxJs-61DAFB?style=for-the-badge&logo=redux&logoColor=white" /> -->
+    <img src="https://img.shields.io/badge/-ReduxJs-%236B48AF?style=for-the-badge&logo=redux&logoColor=white" />
     <img src="https://img.shields.io/badge/-React%20Router%20Dom-%236CDBFD?style=for-the-badge&logo=reactrouter&logoColor=black" />
     <!-- <img src="https://img.shields.io/badge/-react_native-914359?style=for-the-badge&logo=react-native&logoColor=white" /> -->
     <!-- <img src="https://img.shields.io/badge/-materialUI-61DAFB?style=for-the-badge&logo=materialui&logoColor=black" /> -->
