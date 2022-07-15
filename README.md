@@ -114,6 +114,7 @@ Discord: pgsohail" tabindex="0" role="button" style="display: inherit;">
     <img src="https://img.shields.io/badge/-Python-376c99?style=for-the-badge&logo=Python&logoColor=f7ca3e" />
     <img src="https://img.shields.io/badge/-C++-4831B3?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/-java-914359?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ant%20design-%231F92FE?style=for-the-badge&logo=antdesign" />
 </p>
 </details>
 
