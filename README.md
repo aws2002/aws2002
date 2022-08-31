@@ -79,6 +79,9 @@ Discord: pgsohail" tabindex="0" role="button" style="display: inherit;">
 </svg>
     </clipboard-copy>
   </div></div>
+ <!--  <p align="center" dir="auto">
+  <img src="http://drive.google.com/uc?export=view&id=1yCAIb_YGMA15bKpTXJ8MWwSrfR8CMsGb">
+  </p> -->
  <p align="center" dir="auto">
     <img src="https://img.shields.io/badge/-TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
